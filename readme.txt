@@ -1,6 +1,7 @@
+welcome to the "git for beginners " Myroject
 welcome to my project
 
 
-welcome:Pavan Reddyvari
+welcome:Pavan noMiddlenamre Reddyvari
 
 Twitter:@PavanReddyvari
